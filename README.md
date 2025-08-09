@@ -31,14 +31,6 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
+  <img src="./wechat_qr.png" alt="WeChat QR Code" width="100" />
 </p>
 
----
-
-💡 *This README is automatically rendered on my GitHub profile — check it out!*  
