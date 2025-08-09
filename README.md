@@ -29,8 +29,3 @@
 
 ---
 
-### 🌐 Connect with Me  
-<p align="left">
-  <img src="./Wechat_qr.png" alt="WeChat QR Code" width="100" />
-</p>
-
