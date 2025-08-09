@@ -7,8 +7,7 @@
 
 ### 🚀 About Me  
 - 🔭 Working on **Spectral Denoising** & **Transformer Models**  
-- 🌱 Learning **Self-Supervised Learning** & **Spectral Reconstruction**  
-- 💬 Ask me about **Python, MATLAB, Spectroscopy, Transformers**  
+- 🌱 Know more about me: https://moria5161.github.io/
 - 📫 Contact me: **zhangnannan@stu.xmu.edu.cn**  
 - ⚡ Fun fact: *I debug faster than my coffee cools* ☕
 
