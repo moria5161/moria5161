@@ -14,7 +14,7 @@
 
   <rect width="100%" height="100%" fill="transparent"/>
 
-  <text x="136" y="68" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="44" font-weight="700" fill="url(#g)" clip-path="url(#reveal)">
+  <text x="200" y="68" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="44" font-weight="700" fill="url(#g)" clip-path="url(#reveal)">
     Hi 👋, I'm Zhangnannan
   </text>
 
