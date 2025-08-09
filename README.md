@@ -9,14 +9,14 @@
 - 🔭 Working on **Spectral Denoising** & **Transformer Models**  
 - 🌱 Learning **Self-Supervised Learning** & **Spectral Reconstruction**  
 - 💬 Ask me about **Python, MATLAB, Spectroscopy, Transformers**  
-- 📫 Contact me: **your.email@example.com**  
+- 📫 Contact me: **zhangnannan@stu.xmu.edu.cn**  
 - ⚡ Fun fact: *I debug faster than my coffee cools* ☕
 
 ---
 
 ### 🛠 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,matlab,linux,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,matlab,linux,git" />
 </p>
 
 ---
