@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zhangnannan</h1>
+<p align="center">
+  <img src="./animated_title.svg" alt="Hi, I'm Zhangnannan" />
+</p>
 <h3 align="center">Deep Learning Programmer | Data Analyst | Student</h3>
 
 ---
