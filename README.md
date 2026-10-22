@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./animated_title.svg" alt="Hi, I'm Moria" />
-</p>
+<h1 align="center">Hi 👋, I'm Moria</h1>
 
 ---
 
