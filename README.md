@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moria</h1>
 
+<p align="center">Ph.D. student in Artificial Intelligence at Xiamen University.</p>
+
 ---
 
 ### 🚀 About Me  
