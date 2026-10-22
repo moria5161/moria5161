@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moria</h1>
 
-<p align="center">I am a Ph.D. student in Artificial Intelligence at Xiamen University.</p>
+<p align="left">I am a Ph.D. student in Artificial Intelligence at Xiamen University.</p>
 
 ---
 
